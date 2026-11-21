@@ -1,0 +1,62 @@
+[
+  {
+    "id": "early",
+    "kind": "session",
+    "priority": 1,
+    "who": [
+      "橙子",
+      "望北",
+      "墨舟",
+      "丘柳"
+    ]
+  },
+  {
+    "id": "late",
+    "kind": "session",
+    "priority": 2,
+    "who": [
+      "墨舟",
+      "云梢",
+      "望北"
+    ]
+  },
+  {
+    "id": "R1",
+    "kind": "confidentiality",
+    "expose_identity_if_combined": [
+      "云码头",
+      "灯雀"
+    ]
+  },
+  {
+    "id": "R2",
+    "kind": "private_attachment",
+    "owner": "丘柳",
+    "about": "定位图",
+    "access": [
+      "橙子",
+      "望北"
+    ],
+    "purpose": "贴标"
+  },
+  {
+    "id": "R3",
+    "kind": "availability",
+    "who": "望北",
+    "times": [
+      "early",
+      "late"
+    ],
+    "max_sessions": 1
+  },
+  {
+    "id": "R4",
+    "kind": "availability",
+    "who": "墨舟",
+    "times": [
+      "early",
+      "late"
+    ],
+    "max_sessions": 1
+  }
+]

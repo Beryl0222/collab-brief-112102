@@ -1,0 +1,30 @@
+[
+  {
+    "id": "K1",
+    "order": 1,
+    "who": "橙子",
+    "accepted_for": "early",
+    "text": "我接受有望北帮忙、也能用图的提议。"
+  },
+  {
+    "id": "K2",
+    "order": 2,
+    "who": "望北",
+    "accepted_for": "early",
+    "text": "接受先行贴标，不同意别人转发我的资料。"
+  },
+  {
+    "id": "K3",
+    "order": 3,
+    "who": "云梢",
+    "accepted_for": "late",
+    "text": "互看摘要可以，时段先别锁。"
+  },
+  {
+    "id": "K4",
+    "order": 4,
+    "who": "墨舟",
+    "accepted_for": "late",
+    "text": "如能互换标定与配色我愿意，同意先看允许的摘要。"
+  }
+]
